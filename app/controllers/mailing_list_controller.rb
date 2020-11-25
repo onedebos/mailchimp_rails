@@ -4,7 +4,7 @@ class MailingListController < ApplicationController
     dc = 'us13'
     unique_id = "f1ff300381"
     url = "https://#{dc}.api.mailchimp.com/3.0/lists/#{unique_id}/members"
-    api_key = "6b0dc734202fa4e4bfd3975dfda693c8-us13"
+    api_key = "YOUR_API_KEY"
 
     # You need to pass the status:subscribed field to ensure the user is subscribed
     user_details = {
