@@ -1,0 +1,15 @@
+current directory: /home/adebola/Documents/tutorials/mailchimp-rails/mailing-list-app/vendor/bundle/ruby/2.5.0/gems/websocket-driver-0.7.3/ext/websocket-driver
+/home/adebola/.rbenv/versions/2.5.1/bin/ruby -I /home/adebola/.rbenv/versions/2.5.1/lib/ruby/site_ruby/2.5.0 -r ./siteconf20201124-1707-1p3n8f8.rb extconf.rb
+creating Makefile
+
+current directory: /home/adebola/Documents/tutorials/mailchimp-rails/mailing-list-app/vendor/bundle/ruby/2.5.0/gems/websocket-driver-0.7.3/ext/websocket-driver
+make "DESTDIR=" clean
+
+current directory: /home/adebola/Documents/tutorials/mailchimp-rails/mailing-list-app/vendor/bundle/ruby/2.5.0/gems/websocket-driver-0.7.3/ext/websocket-driver
+make "DESTDIR="
+compiling websocket_mask.c
+linking shared-object websocket_mask.so
+
+current directory: /home/adebola/Documents/tutorials/mailchimp-rails/mailing-list-app/vendor/bundle/ruby/2.5.0/gems/websocket-driver-0.7.3/ext/websocket-driver
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 websocket_mask.so ./.gem.20201124-1707-1qh77nj

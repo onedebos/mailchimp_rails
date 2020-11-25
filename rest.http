@@ -1,0 +1,10 @@
+POST http://localhost:3000/addUser
+content-type: application/json
+
+{
+    "phone": "888888888",
+    "email_address": "888888888@gmail.com",
+    "company": "xoxo",
+    "lname": "name",
+    "fname": "another"
+}
